@@ -59,5 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [OpenCV](https://opencv.org/)
 - [SOCOFing Dataset - Kaggle](https://www.kaggle.com/datasets/ruizgara/socofing?resource=download)
-```
 
